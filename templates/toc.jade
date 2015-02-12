@@ -1,0 +1,23 @@
+doctype html
+html(lang='en')
+    head
+        include includes/header
+    body
+        .container
+            include includes/jumbotron
+            include includes/menu
+            .row
+                .col-md-12
+                    .well
+                        .row
+                            .col-md-12
+                                h1.page-header
+                                    != page.title
+                        .row
+                            .col-md-6.col-xs-12.pull-right(style="margin-bottom: 1em")
+                                h2 Table of Contents
+                                ul.nav.nav-pills.nav-stacked#toc
+                            .col-md-6#story
+                                != page.html
+    
+include includes/scriptFooter

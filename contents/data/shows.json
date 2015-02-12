@@ -1,0 +1,56 @@
+[
+    {
+        "imgUrl": "img/shows/working.jpg",
+        "numEpisodes": 13,
+        "quarter": "1st",
+        "animeId": 6956,
+        "genres": ["Comedy", "Slice of Life"],
+        "title": "Working!!",
+        "desc": "Set in a family restaurant in Hokkaido, the northern prefecture of Japan, 16-year-old high school student Souta Takanashi works part-time along with his strange co-workers: Popura Taneshima, a high school girl who's a year older than Souta, yet easily mistaken for an elementary/middle schooler, and Kyoko Shirafuji, the 28-year-old store manager who doesn't bother to do any work at all."
+    },
+    {
+        "imgUrl": "img/shows/ghoul.jpg",
+        "numEpisodes": 12,
+        "quarter": "1st",
+        "animeId": 22319,
+        "genres": ["Action", "Horror"],
+        "title": "Tokyo Ghoul",
+        "desc": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious 'ghouls' who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the café he frequents. Little does he realize that his fate will change overnight"
+    },
+    {
+        "imgUrl": "img/shows/jojos2.png",
+        "numEpisodes": 24,
+        "quarter": "1st & 2nd",
+        "animeId": 20899,
+        "genres": ["Action", "Adventure"],
+        "title": "JJBA: Stardust Crusaders",
+        "desc": "In a Japanese jail sits 17-year-old Jotaro Kujo: punk, fighter, delinquent...and possessed by a force beyond his control! Around the world, evil spirits are awakening: 'Stands,' monstrous invisible creatures which give their bearers incredible powers. To save his mother's life, Jotaro must tame his dark forces and travel around the world to Cairo, Egypt, where a hundred-year-old vampire thirsts for the blood of his family. But the road is long, and an army of evil Stand Users wait to kill JoJo and his friends..."
+    },
+    {
+        "imgUrl": "img/shows/parasyte.jpg",
+        "numEpisodes": 24,
+        "quarter": "1st & 2nd",
+        "animeId": 22535,
+        "genres": ["Action", "Horror", "Sci-Fi"],
+        "title": "Parasyte -the maxim-",
+        "desc": "The 17-year-old Izumi Shinichi lives with his mother and father in a quiet neighborhood in Tokyo. One night, worm-like aliens called Parasytes invade Earth, taking over the brains of human hosts by entering through their ears or noses. One Parasyte attempts to crawl into Shinichi's ear while he sleeps, but fails since he is wearing headphones, and enters his body by burrowing into his arm instead, taking over his right hand and is named Migi.<br/>Because Shinichi was able to prevent Migi from traveling further up into his brain, both beings retain their separate intellect and personality. As the duo encounter other Parasytes, they capitalize on their strange situation and gradually form a strong bond, working together to survive. This gives them an edge in battling other Parasytes, who frequently attack the pair upon realization that Shinichi's human brain is still intact. Shinichi feels compelled to fight other Parasytes, who devour humans as food, while enlisting Migi's help."
+    },
+    {
+        "imgUrl": "img/shows/terror.jpg",
+        "numEpisodes": 11,
+        "quarter": "2nd",
+        "animeId": 23283,
+        "genres": ["Thriller"],
+        "title": "Terror in Resonance",
+        "desc": "In an alternate version of the present, Tokyo has been decimated by a shocking terrorist attack, and the only hint to the identity of the culprit is a bizarre video uploaded to the internet. The police, baffled by this cryptic clue, are powerless to stop the paranoia spreading across the population.<br/>While the world searches for a criminal mastermind to blame for this tragedy, two mysterious children—children who shouldn't even exist—masterfully carry out their heinous plan. Cursed to walk through this world with the names Nine and Twelve, the two combine to form 'Sphinx,' a clandestine entity determine to wake the people from their slumber—and pull the trigger on this world."
+    },
+    {
+        "imgUrl": "img/shows/kotoura-san.jpg",
+        "numEpisodes": 12,
+        "quarter": "2nd",
+        "animeId": 15379,
+        "genres": ["Comedy", "Drama", "Romance"],
+        "title": "Kotoura-san",
+        "desc": "A school love comedy. Kotoura Haruka is a 15-year-old girl who can read people's minds. She has been suffering from troubles caused by her mind-reading ability, and her parents got divorced as a result. She moves to a new high school but tries to keep away from her classmates. Manabe Yoshihisa, one of her classmates, accepts and appreciates her ability and she begins to interact with her friends with his help."
+    }
+]

@@ -1,0 +1,14 @@
+doctype html
+html(lang='en')
+  head
+    include includes/header
+  body
+    include includes/jumbotron
+    include includes/menu
+    .container#content
+        h1
+            != page.title
+        != page.html
+        iframe(style="width: 100%; height: 600px", src="https://kiwiirc.com/client/irc.rizon.net/niuanime")
+    
+include includes/scriptFooter

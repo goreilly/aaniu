@@ -1,0 +1,81 @@
+.page-header {
+    margin-top: 0;
+    border-bottom-color: #000;
+}
+.well {
+    border: 4px solid #363636;
+}
+.tint {
+    position: relative;
+    cursor: pointer;
+}
+.tint:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(239, 239, 239, 0.74);
+}
+#banner {
+    margin: 0;
+}
+.jumbotron:first-child,
+.caption:first-child {
+    margin-top: 0;
+}
+body {
+    padding-top: 1em;
+}
+.caption:last-child {
+    margin-bottom: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Bitter', serif;
+}
+body {
+    font-family: 'Verdana', sans-serif;
+}
+img {
+    border: 5px solid #2E2E2E;
+}
+.thumbnail > img {
+    border: 0;
+}
+body {
+    background-color: #2E2E2E;
+    background-image: url(../img/tweed.png);
+    background-repeat: repeat;
+}
+#banner {
+    background-image: url(../img/struckaxiom.png);
+    background-size: 90px;
+    background-color: #CC0000;
+    color: #FFF;
+    z-index: 100;
+    position: relative;
+}
+#banner:last-child {
+    margin-bottom: 0;
+}
+.thumbnail img {
+    padding: 9px 9px 0 9px;
+}
+.show p {
+    max-height: 150px;
+    overflow: auto;
+    text-overflow: ellipsis;
+    padding-right: 0.25em;
+}
+.offsetAnchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}

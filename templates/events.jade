@@ -1,0 +1,19 @@
+doctype html
+html(lang='en')
+    head
+        include includes/header
+    body
+        .container
+            include includes/jumbotron
+            include includes/menu
+            .row
+                .col-md-7
+                    .well
+                        h1.page-header
+                            != page.title
+                        != page.html
+                .col-md-5
+                    .well
+                        h2.page-header Calendar
+                        iframe(src="https://www.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&mode=AGENDA&height=600&wkst=1&bgcolor=%23FFFFFF&src=g82ch9iqcajukteb32vfel7cs8%40group.calendar.google.com&color=%235229A3&ctz=America%2FChicago" style=" border-width:0 ", width="100%", height="400", frameborder="0", scrolling="no")
+    include includes/scriptFooter

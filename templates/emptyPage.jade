@@ -1,0 +1,16 @@
+doctype html
+html(lang='en')
+  head
+    include includes/header
+  body
+    .container
+        include includes/jumbotron
+        include includes/menu
+        .row
+            .col-md-12
+                .well
+                    h1.page-header
+                        != page.title
+                    != page.html
+    
+include includes/scriptFooter

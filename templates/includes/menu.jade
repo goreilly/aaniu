@@ -1,0 +1,37 @@
+mixin menuLi(href, text)
+    case href
+        when page.url
+            li.active
+                a(href=href)
+                    != text
+        default
+            li
+                a(href=href)
+                    != text
+
+.row(style="padding-top: 1em; padding-bottom: 1em")
+    .col-md-12
+        ul.nav.nav-pills
+            +menuLi('/', 'Home')
+            li.dropdown
+                a.dropdown-toggle(data-toggle="dropdown", href="#") 
+                    | Karoshi-Con
+                    span.caret
+                ul.dropdown-menu
+                    +menuLi('/karoshicon-general.html', 'General Information')
+                    +menuLi('/karoshicon-prereg.html', 'Pre-Registration')
+                    +menuLi('/karoshicon-panels.html', 'Panels')
+                    +menuLi('/karoshicon-vendors.html', 'Vendors')
+                    +menuLi('/karoshicon-gameroom.html', 'Video Game Room')
+            +menuLi('/location.html', 'Location')
+            +menuLi('/shows.html', 'Shows')
+            +menuLi('/events.html', 'Events')
+            li.dropdown
+                a.dropdown-toggle(data-toggle="dropdown", href="#") 
+                    | Club Info
+                    span.caret
+                ul.dropdown-menu
+                    +menuLi('/people.html', 'People')
+                    +menuLi('/history.html', 'Club History')
+                    //+menuLi('/history/index.html', 'Historical Records')
+                    +menuLi('/constitution.html', 'Constitution')

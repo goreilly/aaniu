@@ -1,0 +1,53 @@
+doctype html
+html(lang='en')
+  head
+    include includes/header
+  body
+    .container
+        include includes/jumbotron
+        include includes/menu
+        .row
+            .col-md-7.col-sm-6
+                .row
+                    .col-md-12
+                        .well
+                            != page.html
+                    .col-md-12
+                        .well
+                            iframe(src='//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FAnime-Association-of-Northern-Illinois-University%2F276139039108025&width=650&height=427&colorscheme=light&show_faces=false&header=true&stream=true&show_border=true', scrolling='no', frameborder='0', style='border: none; overflow: hidden; width: 100%; height: 427px;', allowtransparency='false')
+            .col-md-5.col-sm-6
+                .row
+                    .col-md-12
+                        .well
+                            h1(style="margin: 0") Fall 2015 Semester
+                    .col-md-6
+                        .thumbnail
+                            img(src="img/shows/jojos2.png", width="200" height="113")
+                            .caption
+                                h3 New Shows
+                                p Check out our new shows that we'll be watching starting in the Fall!
+                                a.btn.btn-primary.btn-block(href="shows.html") View List
+                    .col-md-6
+                        .thumbnail
+                            img(src="img/mitsuwa.jpg", width="200", height="200")
+                            .caption
+                                h3 Events & Parties
+                                p Join us on trips to Mitsuwa Marketplace and particpiate in our fun parties!
+                                a.btn.btn-primary.btn-block(href="events.html") See Calendar
+                    .col-md-6
+                        .thumbnail(style="background-color: #FFF; border-width: 6px; border-color: #2E2E2E")
+                            a(href="http://www.crunchyroll.com/", target="_blank")
+                                img(src="img/crunchyroll_logo_tagline_small.png", style="border: 0")
+                                .caption.text-center
+                                    h4(style="color: #2E2E2E; font-weight: 800") Sponsored By Crunchyroll
+                    .col-md-6
+                        .thumbnail
+                            a(href="https://sites.google.com/site/niumahjong/", target="_blank")
+                                img(src="img/mahjong.jpg", style="border: 0")
+                                .caption.text-center
+                                    h4(style="color: #2E2E2E; font-weight: 800")  NIU Riichi Mahjong Club
+
+        .row
+            .col-md-12
+                include includes/footer
+include includes/scriptFooter

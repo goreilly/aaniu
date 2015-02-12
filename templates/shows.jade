@@ -1,0 +1,96 @@
+mixin show(imgUrl, numEpisodes, quarter, animeId, genres, title, desc)
+    .show.col-lg-4.col-sm-6
+        .thumbnail
+            img(src=imgUrl, style="height: 200px", height="200", width="350")
+            .caption
+                h3
+                    != title
+
+                h4
+                    != numEpisodes
+                    |  Episodes  
+                    span.label.label-info.pull-right
+                        != quarter
+                        |  Quarter
+                p
+                    != desc
+                h4 Genres:  
+                    each genre in genres
+                        span.label.label-default
+                            != genre
+                        |  
+                a.btn.btn-block.btn-info(target="_blank", href="http://myanimelist.net/anime/" + animeId) View on MyAnimeList.net
+
+doctype html
+html(lang='en')
+  head
+    include includes/header
+  body
+    .container
+        include includes/jumbotron
+        include includes/menu
+        .row
+            .col-md-12
+                .well
+                    .row
+                        .col-md-12
+                            h1.page-header= page.title
+                        .col-md-6
+                            p Shows are voted on by club members near the end of each semester. Only shows that have been previewed in club, or are a sequel of a show shown in club are eligible to be voted on.
+                            p The following shows were voted on to be viewed this semester. Additional information is detailed below.
+                        .col-md-6
+                            h3(style="margin-top: 0") Fun Club
+                            p A time for members to socialize. Highlights include: Werewolf, Magic the Gathering, Munchkin, and other games.
+                            h3 Officer Slot
+                            p During this hour we will watch a show suggested by a club member.
+                        .col-md-6
+                            h2 First Quarter
+                            .panel.panel-default
+                                table.table
+                                    thead
+                                        th(colspan="2") Tuesday
+                                        th(colspan="2") Thursday
+                                    tbody
+                                        tr
+                                            th 6:00 PM
+                                            td Working!!
+                                            th 6:00 PM
+                                            td Tokyo Ghoul
+                                        tr
+                                            th 7:00 PM
+                                            td Fun Club
+                                            th 7:00 PM
+                                            td JoJo's Bizarre Adventure: Stardust Crusaders
+                                        tr
+                                            th 8:00 PM
+                                            td Parasyte -the maxim-
+                                            th 8:00 PM
+                                            td Officer Slot
+                        .col-md-6
+                            h2 Second Quarter
+                            .panel.panel-default
+                                table.table
+                                    thead
+                                        th(colspan="2") Tuesday
+                                        th(colspan="2") Thursday
+                                    tbody
+                                        tr
+                                            th 6:00 PM
+                                            td Terror in Resonance
+                                            th 6:00 PM
+                                            td Kotoura-san
+                                        tr
+                                            th 7:00 PM
+                                            td Fun Club
+                                            th 7:00 PM
+                                            td JoJo's Bizarre Adventure: Stardust Crusaders
+                                        tr
+                                            th 8:00 PM
+                                            td Parasyte -the maxim-
+                                            th 8:00 PM
+                                            td Officer Slot
+                    
+        .row
+            each s in contents.data['shows.json'].metadata
+                +show(s.imgUrl, s.numEpisodes, s.quarter, s.animeId, s.genres, s.title, s.desc)
+include includes/scriptFooter

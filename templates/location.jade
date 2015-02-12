@@ -1,0 +1,21 @@
+doctype html
+html(lang="en")
+  head
+    include includes/header
+  body
+    .container
+        include includes/jumbotron
+        include includes/menu
+        .row
+            .col-md-12
+                .well
+                    h1.page-header
+                        != page.title
+                    != page.html
+                    .well(style="padding: 0; margin: 0")
+                        iframe(style="margin: 0 auto; width: 100%", width="500", height="600", frameborder="0", scrolling="no", src="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=McMurry+Hall,+DeKalb,+IL&aq=&sll=41.928177,-88.746305&sspn=0.133077,0.338173&ie=UTF8&hq=&hnear=McMurry+Hall,+DeKalb,+Illinois+60115&t=m&ll=41.935519,-88.764156&spn=0.002793,0.004549&z=17&output=embed")
+
+        .row
+            .col-md-12
+                include includes/footer
+include includes/scriptFooter

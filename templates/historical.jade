@@ -1,0 +1,19 @@
+doctype html
+html(lang='en')
+    head
+        include includes/header
+    body
+        .container
+            include includes/jumbotron
+            include includes/menu
+            .row
+                .col-md-12
+                    .panel.panel-warning
+                        .panel-heading.text-center
+                            h3.panel-title The Following is a Historical Document
+            .row
+                .col-md-12
+                    .well
+                        h1.page-header= page.title
+                        != page.html
+        include includes/scriptFooter

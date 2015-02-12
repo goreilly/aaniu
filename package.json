@@ -1,0 +1,15 @@
+{
+    "name": "aaniu",
+    "version": "1.0.0",
+    "description": "Collection of resources to generate the aaniu website with wintersmith.",
+    "author": "Garrett O'Reilly <garrettair@gmail.com>",
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/garrettair/aaniu"
+    },
+    "dependencies": {
+        "wintersmith": "~2.1.0"
+    },
+    "private": true
+}
