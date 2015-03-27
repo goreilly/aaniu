@@ -30,3 +30,7 @@ As per the feedback we received, we plan to continue the convention for years to
 ## Karoshi-Con 2013
 
 Karoshi-Con 2013 featured much of the same as the years previous: a Game Room with tournaments with the chance to win prizes, engaging panels encouraging audience participation, a Viewing Room with a variety of anime to preview and a place to relax, and a packed Vendor Room, offering all your favorite anime goods.
+
+##Karoshi-Con 2015
+
+Karoshi-Con continues to expand on previous cons by including more panels and vendors than every before. We have made our tournements bigger and the prizes grander as well! We will see the return of the cosplay contest as well as the Guitar Hero 3 tournemant. 
