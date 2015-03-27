@@ -11,11 +11,33 @@ template: emptyPage.jade
     <em>*Please note that to utilize equipment, you must have an ID.</em>
 </p>
 <h2>Tournaments</h2>
-<p>TBA</h3>
+<table line="1">
+ <tr>
+  <th>Time</th>
+  <th>Game name</th>
+ </tr>
+ <tr>
+  <th>11:00am-12:00om</th>
+  <th>Guitar Hero 3: Legends of Rock</th>
+ </tr>
+ <tr>
+  <th>3:00pm-4:00pm</th>
+  <th>Street Fighter 4</th>
+ </tr>
+ <tr>
+  <th>4:30pm-5:30</th>
+  <th>Super Smash (Wii U)</th>
+ </tr>
+</table> 
+</h3>
 <h2>General Play</h2>
 <p>Games we are offering for general play will include:</p>
 <ul>
-    <li>TBA</li>
+    <li>All players must agree to pause before pausing the game.</li>
+    <li>No unsportsmanlike conduct.</li>
+    <li>The winner is the one who appears on the win screen.</li>
+    <li>Tournament staff reserves the right to ban characters, stages, or gameplay features.</li>
+    <li>Control scemes may be changed before a round.</li>
 </ul>
 <h2>Video Game Room Rules</h2>
 <ul>
