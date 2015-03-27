@@ -5,6 +5,18 @@ template: emptyPage.jade
 
 ## Panels
 
-We are looking for all kinds of panels. From music to trivia to talks, we want your panel! Just submit your panel in the form below. Please make sure to keep them PG, no 18+ panels please.
+### Schedule
 
-<iframe style="width: 100%; min-height: 500px" src="https://docs.google.com/forms/d/1FvWT6IUDkwyPNlSgG6_isY_Mfu-7A-noRcfZke4jqRY/viewform?c=0&w=1"></iframe>
+|Time|Panel Name|Room|
+|-|-|
+|10:30 am - 11:00 am|Werewolf 101|Lincoln|
+|10:30 am - 11:30 am|Realm of Laconia|Illinois |
+|11:45 am - 12:30 pm|Be My Chibi Chubby|Lincoln|
+|11:45 am - 12:45 pm|Movies that you like but most people hate.|Illinois |
+|12:45 pm - 1:45 pm|Let's Play Mahjong!|Lincoln|
+|1:00 pm - 3:00 pm|Wait A Sec...! You Do VOICES?! (Lucas Shuneman)|Illinois |
+|2:00 pm - 2:30 pm|Youtube on a Budget.|Lincoln|
+|2:30 pm - 3:15 pm|Comicbook tv|Lincoln|
+|3:30 pm - 4:30 pm|Name that Tune|Lincoln|
+|3:30 pm - 4:30 pm|Prove Me Wrong: The Last Ride|Illinois |
+|4:45 pm - 5:45 pm|Diversity in Anime|Illinois |
