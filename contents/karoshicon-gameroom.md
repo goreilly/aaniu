@@ -31,7 +31,6 @@ template: emptyPage.jade
 </table> 
 </h3>
 <h2>General Play</h2>
-<p>Games we are offering for general play will include:</p>
 <ul>
     <li>All players must agree to pause before pausing the game.</li>
     <li>No unsportsmanlike conduct.</li>
