@@ -21,7 +21,7 @@ If you are a vendor or artist wishing to participate in Karoshi-Con 2015, please
 
 ### Restrictions
 
-The HSC places restrictions on what we may allow vendors to sell. Additionaly the NIU campus has zero-tolerance for weapons.
+The HSC places restrictions on what we may allow vendors to sell. Additional the NIU campus has zero-tolerance for weapons.
 
 * No 18+ Items
 * No food, drinks, or snacks
