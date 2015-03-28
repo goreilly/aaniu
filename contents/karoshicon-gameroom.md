@@ -34,9 +34,11 @@ _*Please note that to utilize equipment, you must have an ID._
 
 ## General Play
 
-Games we are offering for general play will include:
-
-*   TBA
+*   All players must agree to pause before pausing the game.
+*   No unsportsmanlike conduct.
+*   The winner is the one who appears on the win screen.
+*   Tournament staff reserves the right to ban characters, stages, or gameplay features.
+*   Control schemes may be changed before a round.
 
 ## Video Game Room Rules
 
