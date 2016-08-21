@@ -1,12 +1,12 @@
 [
     {
-        "imgUrl": "img/shows/working.jpg",
-        "numEpisodes": 13,
+        "imgUrl": "img/shows/chuni.jpg",
+        "numEpisodes": 12,
         "quarter": "1st",
         "animeId": 6956,
         "genres": ["Comedy", "Slice of Life"],
-        "title": "Working!!",
-        "desc": "Set in a family restaurant in Hokkaido, the northern prefecture of Japan, 16-year-old high school student Souta Takanashi works part-time along with his strange co-workers: Popura Taneshima, a high school girl who's a year older than Souta, yet easily mistaken for an elementary/middle schooler, and Kyoko Shirafuji, the 28-year-old store manager who doesn't bother to do any work at all."
+        "title": "Chuunibyou",
+        "desc": "Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers, or maybe even believe themselves to have descended from a fantasy realm. This "disease" is known as "chuunibyou" and is often the source of some of the most embarrassing moments of a person's life."
     },
     {
         "imgUrl": "img/shows/ghoul.jpg",
