@@ -9,22 +9,22 @@
         "desc": "Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers, or maybe even believe themselves to have descended from a fantasy realm. This "disease" is known as "chuunibyou" and is often the source of some of the most embarrassing moments of a person's life."
     },
     {
-        "imgUrl": "img/shows/ghoul.jpg",
+        "imgUrl": "img/shows/schoolLive.jpg",
         "numEpisodes": 12,
         "quarter": "1st",
         "animeId": 22319,
-        "genres": ["Action", "Horror"],
-        "title": "Tokyo Ghoul",
-        "desc": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious 'ghouls' who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the café he frequents. Little does he realize that his fate will change overnight"
+        "genres": ["Comedy", "Horror"],
+        "title": "School-Live!",
+        "desc": "Based on the manga by Kaihou Norimitsu, Gakkougurashi! follows a group of girls who are forced to adapt to a post-apocalyptic life all by themselves. They have no means of contact with the outside world and are surrounded by hostile undead waiting to devour them. The girls must not only contend with the challenge of survival; they must also strive to maintain a false appearance of normality in Yuki's presence."
     },
     {
-        "imgUrl": "img/shows/jojos2.png",
-        "numEpisodes": 24,
+        "imgUrl": "img/shows/depression.jpg",
+        "numEpisodes": 26,
         "quarter": "1st & 2nd",
         "animeId": 20899,
-        "genres": ["Action", "Adventure"],
-        "title": "JJBA: Stardust Crusaders",
-        "desc": "In a Japanese jail sits 17-year-old Jotaro Kujo: punk, fighter, delinquent...and possessed by a force beyond his control! Around the world, evil spirits are awakening: 'Stands,' monstrous invisible creatures which give their bearers incredible powers. To save his mother's life, Jotaro must tame his dark forces and travel around the world to Cairo, Egypt, where a hundred-year-old vampire thirsts for the blood of his family. But the road is long, and an army of evil Stand Users wait to kill JoJo and his friends..."
+        "genres": ["Sci-Fi", "Mecha"],
+        "title": "Neon Genesis Evangelion",
+        "desc": "In the year 2015, the world stands on the brink of destruction. Humanity's last hope lies in the hands of Nerv, a special agency under the United Nations, and their Evangelions, giant machines capable of defeating the Angels who herald Earth's ruin. Gendou Ikari, head of the organization, seeks compatible pilots who can synchronize with the Evangelions and realize their true potential. Aiding in this defensive endeavor are talented personnel Misato Katsuragi, Head of Tactical Operations, and Ritsuko Akagi, Chief Scientist. Face to face with his father for the first time in years, 14-year-old Shinji Ikari's average life is irreversibly changed when he is whisked away into the depths of Nerv, and into a harrowing new destiny—he must become the pilot of Evangelion Unit-01 with the fate of mankind on his shoulders. Written by Hideaki Anno, Neon Genesis Evangelion is a heroic tale of a young boy who will become a legend. But as this psychological drama unfolds, ancient secrets beneath the big picture begin to bubble to the surface..."
     },
     {
         "imgUrl": "img/shows/parasyte.jpg",
@@ -45,12 +45,12 @@
         "desc": "In an alternate version of the present, Tokyo has been decimated by a shocking terrorist attack, and the only hint to the identity of the culprit is a bizarre video uploaded to the internet. The police, baffled by this cryptic clue, are powerless to stop the paranoia spreading across the population.<br/>While the world searches for a criminal mastermind to blame for this tragedy, two mysterious children—children who shouldn't even exist—masterfully carry out their heinous plan. Cursed to walk through this world with the names Nine and Twelve, the two combine to form 'Sphinx,' a clandestine entity determine to wake the people from their slumber—and pull the trigger on this world."
     },
     {
-        "imgUrl": "img/shows/kotoura-san.jpg",
+        "imgUrl": "img/shows/monster.jpg",
         "numEpisodes": 12,
         "quarter": "2nd",
         "animeId": 15379,
-        "genres": ["Comedy", "Drama", "Romance"],
-        "title": "Kotoura-san",
-        "desc": "A school love comedy. Kotoura Haruka is a 15-year-old girl who can read people's minds. She has been suffering from troubles caused by her mind-reading ability, and her parents got divorced as a result. She moves to a new high school but tries to keep away from her classmates. Manabe Yoshihisa, one of her classmates, accepts and appreciates her ability and she begins to interact with her friends with his help."
+        "genres": ["Comedy", "Drama", "Romance", "ecchi"],
+        "title": "Monster Musume",
+        "desc": "With his parents abroad, Kimihito Kurusu lived a quiet, unremarkable life alone until monster girls came crowding in! This alternate reality presents cutting-edge Japan, the first country to promote the integration of non-human species into society. After the incompetence of interspecies exchange coordinator Agent Smith leaves Kimihito as the homestay caretaker of a Lamia named Miia, the newly-minted "Darling" quickly attracts girls of various breeds, resulting in an ever-growing harem flush with eroticism and attraction."
     }
 ]
