@@ -27,25 +27,16 @@
         "desc": "In the year 2015, the world stands on the brink of destruction. Humanity's last hope lies in the hands of Nerv, a special agency under the United Nations, and their Evangelions, giant machines capable of defeating the Angels who herald Earth's ruin. Gendou Ikari, head of the organization, seeks compatible pilots who can synchronize with the Evangelions and realize their true potential. Aiding in this defensive endeavor are talented personnel Misato Katsuragi, Head of Tactical Operations, and Ritsuko Akagi, Chief Scientist. Face to face with his father for the first time in years, 14-year-old Shinji Ikari's average life is irreversibly changed when he is whisked away into the depths of Nerv, and into a harrowing new destiny—he must become the pilot of Evangelion Unit-01 with the fate of mankind on his shoulders. Written by Hideaki Anno, Neon Genesis Evangelion is a heroic tale of a young boy who will become a legend. But as this psychological drama unfolds, ancient secrets beneath the big picture begin to bubble to the surface..."
     },
     {
-        "imgUrl": "img/shows/parasyte.jpg",
-        "numEpisodes": 24,
-        "quarter": "1st & 2nd",
-        "animeId": 22535,
-        "genres": ["Action", "Horror", "Sci-Fi"],
-        "title": "Parasyte -the maxim-",
-        "desc": "The 17-year-old Izumi Shinichi lives with his mother and father in a quiet neighborhood in Tokyo. One night, worm-like aliens called Parasytes invade Earth, taking over the brains of human hosts by entering through their ears or noses. One Parasyte attempts to crawl into Shinichi's ear while he sleeps, but fails since he is wearing headphones, and enters his body by burrowing into his arm instead, taking over his right hand and is named Migi.<br/>Because Shinichi was able to prevent Migi from traveling further up into his brain, both beings retain their separate intellect and personality. As the duo encounter other Parasytes, they capitalize on their strange situation and gradually form a strong bond, working together to survive. This gives them an edge in battling other Parasytes, who frequently attack the pair upon realization that Shinichi's human brain is still intact. Shinichi feels compelled to fight other Parasytes, who devour humans as food, while enlisting Migi's help."
-    },
-    {
-        "imgUrl": "img/shows/terror.jpg",
-        "numEpisodes": 11,
+        "imgUrl": "img/shows/goodLuck.jpg",
+        "numEpisodes": 13,
         "quarter": "2nd",
-        "animeId": 23283,
-        "genres": ["Thriller"],
-        "title": "Terror in Resonance",
-        "desc": "In an alternate version of the present, Tokyo has been decimated by a shocking terrorist attack, and the only hint to the identity of the culprit is a bizarre video uploaded to the internet. The police, baffled by this cryptic clue, are powerless to stop the paranoia spreading across the population.<br/>While the world searches for a criminal mastermind to blame for this tragedy, two mysterious children—children who shouldn't even exist—masterfully carry out their heinous plan. Cursed to walk through this world with the names Nine and Twelve, the two combine to form 'Sphinx,' a clandestine entity determine to wake the people from their slumber—and pull the trigger on this world."
+        "animeId": 22535,
+        "genres": ["Comedy", "Supernatural"],
+        "title": "Binbougami Ga",
+        "desc": "Binbougami Ga! is a battle between fortune and misfortune. A battle that will employ verbal jabs, dirty tricks, and odd-ball bets. Will the human with all the luck in the world or the deity with nothing but misfortune come out on top?"
     },
     {
-        "imgUrl": "img/shows/monster.jpg",
+        "imgUrl": "img/shows/monster.png",
         "numEpisodes": 12,
         "quarter": "2nd",
         "animeId": 15379,
