@@ -1,6 +1,6 @@
 [
     {
-        "imgUrl": "img/shows/chuni.png",
+        "imgUrl": "img/shows/chuni.jpg",
         "numEpisodes": 12,
         "quarter": "1st",
         "animeId": 14741,
@@ -9,7 +9,7 @@
         "desc": "Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers, or maybe even believe themselves to have descended from a fantasy realm. This 'disease' is known as 'chuunibyou' and is often the source of some of the most embarrassing moments of a person's life."
     },
     {
-        "imgUrl": "img/shows/schoolLive.png",
+        "imgUrl": "img/shows/schoolLive.jpg",
         "numEpisodes": 12,
         "quarter": "1st",
         "animeId": 24765,
@@ -36,7 +36,7 @@
         "desc": "Binbougami Ga! is a battle between fortune and misfortune. A battle that will employ verbal jabs, dirty tricks, and odd-ball bets. Will the human with all the luck in the world or the deity with nothing but misfortune come out on top?"
     },
     {
-        "imgUrl": "img/shows/monster.png",
+        "imgUrl": "img/shows/monster.jpg",
         "numEpisodes": 12,
         "quarter": "2nd",
         "animeId": 30307,
