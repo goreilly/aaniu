@@ -1,6 +1,6 @@
 [
     {
-        "imgUrl": "img/shows/chuni.jpg",
+        "imgUrl": "img/shows/chuni.png",
         "numEpisodes": 12,
         "quarter": "1st",
         "animeId": 6956,
@@ -9,7 +9,7 @@
         "desc": "Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers, or maybe even believe themselves to have descended from a fantasy realm. This 'disease' is known as 'chuunibyou' and is often the source of some of the most embarrassing moments of a person's life."
     },
     {
-        "imgUrl": "img/shows/schoolLive.jpg",
+        "imgUrl": "img/shows/schoolLive.png",
         "numEpisodes": 12,
         "quarter": "1st",
         "animeId": 22319,
